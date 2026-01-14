@@ -1,16 +1,17 @@
-## Hi there 👋
+# Tech With Thisguy
 
-<!--
-**techwiththisguy/techwiththisguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Patrick Wilder — a software developer and small-business tech builder based in Florida.
 
-Here are some ideas to get you started:
+I build practical tools that help service businesses capture leads, respond faster, and automate follow-ups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m building
+- **TWT Lead Assurance** — lead intake + admin follow-up tracker (Flask + SQLite)
+- **TWT Notification Engine** — event-driven notification service (FastAPI)
+
+## Tech I use
+Python • Flask • FastAPI • SQL/SQLite • HTML/CSS • JavaScript • Git/GitHub
+
+## Current focus
+Building reusable, real-world tools for small businesses and growing Tech With Thisguy LLC.
+
+📫 Contact: techwiththisguy@gmail.com
