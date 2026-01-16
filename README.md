@@ -58,7 +58,7 @@ A lightweight command-line SEO and website quality scanner built for small busin
 - Structured JSON report output
 - Clean, extensible, architecture for adding new checks
 
-- This project emphasizes **automation, clarity, and ownership**, providing fast, actionable insights without relying on paid platforms or third-party dashboards.
+This project emphasizes **automation, clarity, and ownership**, providing fast, actionable insights without relying on paid platforms or third-party dashboards.
 
 ---
 
