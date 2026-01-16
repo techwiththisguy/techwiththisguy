@@ -49,6 +49,19 @@ This project reflects my interest in **backend services, automation, and system 
 
 ---
 
+### 🔹 TWT Site Audit
+A lightweight command-line SEO and website quality scanner built for small businesses, developers, and consultants.
+
+- CLI-based audit tool (no dashboard bloat)
+- Fetches and parses live HTML
+- Checks core SEO and Structural signals
+- Structured JSON report output
+- Clean, extensible, architecture for adding new checks
+
+- This project emphasizes **automation, clarity, and ownership**, providing fast, actionable insights without relying on paid platforms or third-party dashboards.
+
+---
+
 ## Tech I Use (and Keep Improving)
 
 - **Languages:** Python, JavaScript, HTML/CSS  
